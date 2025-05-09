@@ -99,3 +99,19 @@ a {
   border-top: 1px solid #333;
   margin-top: auto;
 }
+
+
+.addMovie {
+   padding:50px 100px;
+   background-color: #ccc;
+   text-align:center;
+   display: flex;
+   align-items: center;
+}
+
+form {
+  flex:1;
+}
+form input {
+   margin:0 50px
+}
